@@ -24,3 +24,6 @@ As a Research and Development Specialist, I contributed to evaluating emerging o
 *Strategic Collaboration: Worked alongside a multidisciplinary team to develop frameworks and strategic documents that inform policy and industry practices.
 
 * Interdisciplinary Coordination: Coordinated with stakeholders across academia, government, and industry to contribute to impactful research outcomes.
+
+# File included: Technical Report 
+Link to the report at NREL website: https://www.osti.gov/biblio/2349050/
